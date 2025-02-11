@@ -7,3 +7,5 @@ if (a === b){
 else {
     console.log("a va b khac nhau")
 }
+
+console.log("Pha choi")
