@@ -8,4 +8,4 @@ else {
     console.log("a va b khac nhau")
 }
 
-console.log("testing")
+console.log("dmm")
